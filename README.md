@@ -1,1 +1,1 @@
-# chatprim
+chatprim.bolt.host
